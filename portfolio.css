@@ -147,8 +147,9 @@
   .form-control, 
   textarea {
     max-width: 400px;
-    background-color: #000;
-    color: #fff;
+    background-color: whitesmoke;
+    color: black;
+    border: 1px solid #000 ;
     letter-spacing: 1px;
   }
   
